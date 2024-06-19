@@ -1,0 +1,11 @@
+{
+    "email": {
+        "smtp_host": "smtp.gmail.com",
+        "smtp_port": 587,
+        "username": "write your email address",
+        "password":"write your password"
+    },
+    "firebase": {
+        "credentials-file": "path to json firebase file"
+    }
+}
