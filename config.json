@@ -6,6 +6,6 @@
         "password":"write your password"
     },
     "firebase": {
-        "credentials-file": "path to json firebase file"
+        "credentials-file": "path to firebase file"
     }
 }
